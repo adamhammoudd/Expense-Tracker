@@ -16,10 +16,6 @@ A simple personal finance manager built with Python and Tkinter. This app allows
 - Tkinter (GUI)
 - JSON (for local data storage)
 
-## 📷 Screenshots
-
-> *Add screenshots here if you want to showcase the UI.*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
