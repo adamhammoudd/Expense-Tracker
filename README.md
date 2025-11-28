@@ -1,4 +1,4 @@
-# 💰 Finance App
+# 💰 Expense Tracker
 
 A simple personal finance manager built with Python and Tkinter. This app allows users to sign up, log in, track their income and expenses, and view or remove past transactions.
 
